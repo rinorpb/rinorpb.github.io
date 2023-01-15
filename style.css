@@ -46,6 +46,8 @@ video{
     margin: 0;
     background-color: #000017;
     border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    padding-left: 10%;
+    padding-right: 10%;
   }
   nav ul {
     list-style: none;
@@ -97,6 +99,11 @@ video{
   }
 
   @media screen and (max-width: 600px) {
+    nav{
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+
     main{
       margin: 0px;
     }
