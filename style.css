@@ -1,15 +1,13 @@
-/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
-   HTML content. To learn how to do something, just try searching Google for questions like
-   "how to change link color." 
-
+/*
    dark red = #690f0f
    dar grey = #191919
+   dark blue = #000017
 */
 
 body {
     margin: 0;
     padding: 0;
-    background-color: #690f0f;
+    background-color: #000017;
     color: white;
     font-family: Verdana;
   }
@@ -46,7 +44,7 @@ video{
     padding-bottom: 10px;
     padding-top: 10px;
     margin: 0;
-    background-color: #191919;
+    background-color: #000017;
     border-bottom: 1px solid rgba(128, 128, 128, 0.2);
   }
   nav ul {
@@ -62,7 +60,7 @@ video{
   
   main {
     border: 1px solid rgba(128, 128, 128, 0.2);
-    background-color: #191919;
+    background-color: #000017;
     margin-left: 10%;
     margin-right: 10%;
     padding: 70px 5vw;
