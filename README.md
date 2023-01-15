@@ -1,2 +1,2 @@
 # rinorpb.github.io
-A simple portfolio fr myself
+A simple portfolio for myself
