@@ -4,6 +4,10 @@
    dark blue = #000017
 */
 
+html{
+  scrollbar-gutter: stable;
+}
+
 body {
     margin: 0;
     padding: 0;
